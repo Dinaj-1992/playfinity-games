@@ -1,2 +1,2 @@
-# playfinity-games 
+# playfinity-GAME
 playfinity-games Spiele 
